@@ -1,0 +1,4555 @@
+Starting Conversation Starter Bot!
+Checking against dates:
+[{"year":2020,"month":6,"day":22,"hours":13,"minutes":0},{"year":2020,"month":6,"day":24,"hours":13,"minutes":0},{"year":2020,"month":6,"day":26,"hours":13,"minutes":0}]
+Starting Reminder Bot!
+Checking against dates:
+[{"year":2020,"month":7,"day":5,"hours":18,"minutes":0}]
+Starting Ram Facts Chatbot!
+info login Logged in
+info login Request to reconnect
+info login Done logging in.
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843943843814369562' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843943843343877065' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843943842933032090' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843943844470741330' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843943844194941758' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843943842867157701' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843944492856777323' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843945135413621095' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843945783947444234' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843945783921388522' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843946433339581990' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843946433484446872' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843947081429945997' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843947731130428970' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843948378414255538' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843949027050325942' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843949675745420689' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843952269937308644' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843952270358385730' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843952917892194183' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843952917887151119' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843953566641417977' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843953568219382580' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843954215372843792' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843954216276610890' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843954864279325605-0' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843955513522317725' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843958755548246643' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843959403521239297' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843960053408201583-0' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843960701303199882' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843961998542971808' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843962647037883778' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843965890243759281' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843966539017001557' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843967834383862228' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843968482915091391' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843970430216291606' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843970430072077739' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843971104428610640' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843971726736385671' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843971726138412538' }
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843972374907309867' }
+Got an event from threadID: undefined
+Got an event from threadID: undefined
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843973023617931954' }
+{ __ar: 1,
+  error: 1357031,
+  errorSummary: 'This content is no longer available',
+  errorDescription:
+   'The content you requested cannot be displayed right now. It may be temporarily unavailable, the link you clicked on may have expired, or you may not have permission to view this page.',
+  payload: null,
+  jsmods:
+   { define:
+      [ [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array],
+        [Array] ],
+     require: [ [Array], [Array], [Array], [Array] ] },
+  js: [ 'VHbq7', 'R6khb' ],
+  bootloadable:
+   { BanzaiODS: { r: [Array], rds: [Object] },
+     BanzaiScuba: { r: [Array], rds: [Object] },
+     BladeRunnerClient: { r: [Array], rds: [Object], be: 1 },
+     BladeRunnerStreamHandler: { r: [Array], be: 1 },
+     WebSession: { r: [], rds: [Object], be: 1 },
+     FalcoBladeRunnerTransport: { r: [Array], be: 1 } },
+  resource_map:
+   { VHbq7:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3i6u-4/y7/l/en_US/4Q_iHVpuTAr.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     '+teab':
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3idBq4/yc/l/en_US/oaN3ljr2EZW.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     US7AO:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3iIX_4/yv/l/en_US/7RtSlOwVMB8.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     Etpfn:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/_-1XGDSU8y9.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     AoyP3:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/ySDfr2FLWnT.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 },
+     R6khb:
+      { type: 'js',
+        src:
+         'https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/LPWRC_mlm7Q.js?_nc_x=v0BsW_Qo2s1',
+        nc: 1 } },
+  ixData: {},
+  bxData: {},
+  gkxData:
+   { '676837': { result: false, hash: 'AT5-fK7chqsQ54l1' },
+     '708253': { result: false, hash: 'AT4xAdN2PN8kUiJj' },
+     '946894': { result: false, hash: 'AT7uQCOQam-Vr1fD' },
+     '996940': { result: false, hash: 'AT5SlRO5E0LmGh_x' },
+     '1167394': { result: false, hash: 'AT49xeSVZ7rrq4iT' },
+     '1263340': { result: false, hash: 'AT6JsJEnBH3HSAMg' } },
+  qexData:
+   { '1495391': { r: true },
+     '1495392': { r: 'partial_br' },
+     '1505135': { r: 'bd_pdc_signals,realtime_frameworks_counter' } },
+  lid: '6843973022668032234' }
