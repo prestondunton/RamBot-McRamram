@@ -8,19 +8,19 @@ Rambot-McRamram is a Facebook Messenger chatbot designed to interact with the 20
 
 When anybody sends a message that contains the word Ram, Rambot gets super excited!  He let's us know by sending us a message with a randomly selected ram fact from a list contained in the configuration file.
 
-![Ram Facts](/images/RamFacts.PNG)
+<img src="/images/RamFacts.PNG" alt="Ram Facts" width="25%" height="25%">
 
 ### Conversation Starters
 
 To build the team before the season starts, Rambot starts conversation by sending a conversation starter at the weekly times specified in the configuration file.  Conversation starters are selected randomly from the list provided in the configuration file, though no starter is used twice.
 
-![Conversation Starter](/images/ConversationStarter.PNG)
+<img src="/images/ConversationStarter.PNG" alt="Conversation Starter" width="25%" height="25%">
 
 ### Meeting Reminders
 
 The configuration file contains dates and times of when we meet together with our band director over Zoom.  Rambot sends reminders of the meetings the day of to help those of us who might have forgotten.
 
-![Meeting Reminders](/images/MeetingReminder.PNG)
+<img src="/images/MeetingReminder.PNG" alt="Meeting Reminder" width="25%" height="25%">
 
 ### Command Interface
 
