@@ -1,11 +1,11 @@
 const fs = require("fs");
 const login = require("facebook-chat-api");
+const config = require('config');
 
-const config = require("./chat_bot_config.json");
-const facts = config.facts;
-const convStarters = config.convStarters;
-const convDates = config.convDates;
-const meetDates = config.meetDates;
+const facts = config.get('facts');
+const convStarters = config.get('convStarters');
+const convDates = config.get('convDates');
+const meetDates = config.get('meetDates');
 
 var convUsed = new Array(convStarters.length).fill(0);
 
@@ -43,7 +43,7 @@ login({appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8'))}, (err, ap
 			    sendMessage("Did somebody say Ram?  I love Rams! Here's a cool Ram fact!\n\n" +  facts[Math.floor(Math.random() * facts.length)], event.threadID);
 			}
 		}
-		if(event.threadID == config.prestonThreadID){
+		if(event.threadID == config.get('prestonThreadID')){
 			if(event.body[0] == '/')
 				runCommand(event.body);
 		}
@@ -60,10 +60,10 @@ function runCommand(message){
 	const arguments = message.split(' ');	
 	switch(arguments[0]){
 		case "/conv":
-			sendMessage(getConvStarter() + "  Share with the team!",config[arguments[1]]);
+			sendMessage(getConvStarter() + "  Share with the team!",config.get(arguments[1]));
 			break;
 		case "/say":
-			sendMessage(message.replace(arguments[0] + " " + arguments[1],""),config[arguments[1]]);
+			sendMessage(message.replace(arguments[0] + " " + arguments[1],""),config.get(arguments[1]));
 			break;
 		case "/stop":
 			process.exit(0);
@@ -76,7 +76,7 @@ function runCommand(message){
 			break;
 	}
     } catch (e) {
-	sendMessage("Error caught when processing command sent:\n" + e.toString(),config.prestonThreadID); 
+	sendMessage("Error caught when processing command sent:\n" + e.toString(),config.get('prestonThreadID')); 
     }
 }
 
@@ -104,18 +104,18 @@ function checkForReminderTime(){
 				   if(now.getHours() === date.getHours() &&
 				      now.getMinutes() === date.getMinutes()){
 					console.log("It's time for a meeting reminder!");
-					sendMessage("The meeting is starting now!",config.leadershipThreadID);
+					sendMessage("The meeting is starting now!",config.get('leadershipThreadID'));
 				   }
 				   if(now.getHours() === date.getHours() &&
 				      now.getMinutes() === date.getMinutes()-30){
 					console.log("It's time for a meeting reminder!");
-					sendMessage("The meeting starts in 30 min!",config.leadershipThreadID);
+					sendMessage("The meeting starts in 30 min!",config.get('leadershipThreadID'));
 
 				   }
 				   if(now.getHours() === 10 &&
 				      now.getMinutes() === 0){
 					console.log("It's time for a meeting reminder!");
-					sendMessage("Just a reminder, there is a meeting today!",config.leadershipThreadID);
+					sendMessage("Just a reminder, there is a meeting today!",config.get('leadershipThreadID'));
 				   }
 			}
 		}
@@ -133,7 +133,7 @@ function checkForConvStartTime(){
 			   now.getHours() === date.getHours() &&
 			   now.getMinutes() === date.getMinutes()){
 				console.log("It's time for a conversation starter!");
-				sendMessage(getConvStarter() + "  Share with the team!",config.leadershipThreadID);
+				sendMessage(getConvStarter() + "  Share with the team!",config.get('leadershipThreadID'));
 			}
 		}
 	}
@@ -142,7 +142,7 @@ function checkForConvStartTime(){
 function getConvStarter(){
 
 	if(!(convUsed.includes(0))){
-		sendMessage("You need to write more conversation starters!",config.prestonThreadID);
+		sendMessage("You need to write more conversation starters!",config.get('prestonThreadID'));
 		return "What's your favorite color, green, gold, or white?";
 	}
 	

@@ -1,9 +1,9 @@
 const fs = require("fs");
 const login = require("facebook-chat-api");
 
-const config = require("./chat_bot_config.json");
+const config = require('config');
 
-var credentials = {email: config.email, password: config.password};
+var credentials = {email: config.get('email'), password: config.get('password')};
 
 login(credentials, (err, api) => {
     if(err) return console.error(err);
