@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "facebook-chat-api": "^1.8.0",
     "fs": "^0.0.1-security"
   },
